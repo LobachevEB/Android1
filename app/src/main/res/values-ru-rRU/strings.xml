@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Урок 1</string>
+    <string name="routes">Маршруты</string>
+    <string name="camping">Кемпинги</string>
+    <string name="attractions">Развлечения</string>
+    <string name="go">Поехали!</string>
+</resources>

@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Lesson1</string>
+    <string name="app_name">Lesson 1</string>
+    <string name="routes">Routes</string>
+    <string name="camping">Camping</string>
+    <string name="attractions">Attractions</string>
+    <string name="go">Let\'s go!</string>
 </resources>
